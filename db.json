@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Products A vừa update ",
+      "price": "200",
+      "img": "https://cdn.ssstutter.com/products/system/102021/1634091675001.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Products B vừa update",
+      "price": 200,
+      "img": "https://cdn.ssstutter.com/products/nCRHI1bpbr1ZIsxG/032022/1647488272228.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Products C",
+      "price": 300,
+      "img": "https://cdn.ssstutter.com/products/nCRHI1bpbr1ZIsxG/032022/1647487571838.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Products D",
+      "price": 300,
+      "img": "https://cdn.ssstutter.com/products/nCRHI1bpbr1ZIsxG/032022/1647488570992.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "abc",
+      "email": "long@gmail.com",
+      "password": 12345
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123456,
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "password": "123456",
+      "id": 4
+    }
+  ]
+}
